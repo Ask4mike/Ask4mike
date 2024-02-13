@@ -15,6 +15,6 @@ Below are links to certain projects that I have completed and hosted online
 - More to come soon... ⚒️
 ## Let's connect and collaborate together, share ideas, build projects and solve problems... 🥂
 ## Contact Me
-- Emial =>  [https://mikel.smith069@gmail.com]
+- Emial =>  [mikel.smith069@gmail.com]
 - Twitter => [https://twitter.com/mikael_akpang]
 - Linkedin => [https://www.linkedin.com/in/mikael-smith-442631224/]
