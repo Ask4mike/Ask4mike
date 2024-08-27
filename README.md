@@ -7,6 +7,11 @@ I'm Michael, a budding software engineer who is on the path of building a solid 
 - Html
 - CSS
 - JavaScript
+- React JS
+- Vite 
+- Restful APIs
+- Bootstrap
+- Tailwind CSS
 ## Projects
 Below are links to certain projects that I have completed and hosted online
 - [https://password-generator-app-mu-one.vercel.app/] Password Generator App
